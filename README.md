@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-⚡Interests:
-  ▪ Machine Learning
-  ▪ Game Dev
-  ▪ Fullstack
-  ▪ Cypersecurity
+⚡Interests:</br>
+  ◽ Machine Learning </br>
+  ◽ Game Dev </br>
+  ◽ Fullstack </br>
+  ◽ Cypersecurity </br>
+  </br>
  
-🔭 I’m currently working on:
-  ▪ Game Dev
-  ▪ Fullstack
+🔭 I’m currently working on: </br>
+  ◽ Game Dev </br>
+  ◽ Fullstack
 
 
 <!--
