@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-⚡Interests:</br>
-  ◽ Machine Learning </br>
-  ◽ Game Dev </br>
-  ◽ Fullstack </br>
-  ◽ Cypersecurity </br>
+⚡Interests: </br>
+◽ Machine Learning </br>
+◽ Game Dev </br>
+◽ Fullstack </br>
+◽ Cypersecurity </br>
   </br>
  
 🔭 I’m currently working on: </br>
